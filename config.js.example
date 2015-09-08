@@ -1,0 +1,10 @@
+var init = "Black Home [Version 1.0.0]<br />Copyright (c) 2015 oxsoft. All rights reserved.<br />";
+
+var ps1 = "C:\\Users\\oxsoft&gt;";
+
+var cursor = "_";
+
+var shortcuts = new Array(256);
+
+//A=65 Z=90
+shortcuts[66] = {"title":"BlackHome", "url":"https://github.com/oxsoft/blackhome"}

@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: #000000;
+	font-family: monospace;
+}
+
+#wrapper {
+	text-align: left;
+	font-size: 32px;
+	color: #cccccc;
+	margin-left: 20px;
+	margin-top: 20px;
+	line-height: 48px;
+}
